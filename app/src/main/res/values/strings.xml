@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MagicMirror_faceswap_nodlib</string>
+    <string name="pick_image_intent_text">Choose image</string>
+</resources>
